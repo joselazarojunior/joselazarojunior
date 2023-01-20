@@ -9,4 +9,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joselazarojunior&count_private=true&show_icons=true&theme=radical)![alt text](https://github.com/joselazarojunior/joselazarojunior/blob/main/avatar_github.png "avatar")
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselazarojunior)](https://github.com/joselazarojunior/github-readme-stats)
+
 
