@@ -7,5 +7,3 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho com monitoramento de Data Center.
 - 🌱 Estou estudando Desenvolvimento de Software na Cubos Academy! FULL STACK
 
-
-
