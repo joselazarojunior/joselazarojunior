@@ -5,6 +5,7 @@ Olá! Eu sou o José Lázaro Júnior 👋
 Here are some ideas to get you started:
 -->
 - 🔭 Atualmente trabalho com monitoramento de Data Center.
+- Participei do programa de capacitação do Nubank https://cubos.academy/cursos/nubank, voltado para a formação em Desenvolvimento de Software com foco em Backend utilizando Node.JS (ministrado pela Alura)
 - 🌱 Estou estudando Desenvolvimento de Software na Cubos Academy!
 
 
